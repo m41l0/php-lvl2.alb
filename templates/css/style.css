@@ -1,0 +1,31 @@
+body {
+    background: #eee;
+}
+.inner {
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+.inner p {
+    margin: 20px 50px;
+    text-indent: 1.5em;
+    text-align: justify;
+    line-height: 1.4em;
+}
+.inner h1 {
+    margin: 10px 0;
+}
+.warning {
+    color: red;
+}
+.inner article {
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.inner a {
+    text-decoration: none;
+}
+.inner .head {
+    margin-bottom: 30px;
+    border-bottom: 3px double darkgray;
+}
